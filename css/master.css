@@ -47,9 +47,9 @@
 		font-size:26px;
 	}
 }
-@media(max-width: 320px){
-	body footer{
-		padding-top: 20px;
+@media(max-width: 330px){
+	body header{
+		padding-top: 10px;
 	}
 	div.table{
 		left:10%;
