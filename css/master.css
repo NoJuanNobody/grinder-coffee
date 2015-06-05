@@ -46,6 +46,14 @@
 		font-size:26px;
 	}
 }
+@media(max-width: 320px){
+	body footer{
+		padding-top: 20px;
+	}
+	div.table{
+		left:10%;
+	}
+}
 body{
 	font-family: 'Lato',helvetica, sans-serif;
 	margin:0;
