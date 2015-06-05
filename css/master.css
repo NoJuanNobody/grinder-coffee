@@ -54,6 +54,11 @@
 	div.table{
 		left:10%;
 	}
+	div.shop{
+		margin:0;
+		width: 100%;
+  		background-size: cover;
+	}
 }
 body{
 	font-family: 'Lato',helvetica, sans-serif;
